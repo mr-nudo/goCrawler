@@ -6,7 +6,7 @@ import (
 	"github.com/gocolly/colly"
 )
 
-//import "rsc.io/quote"
+//import "rsc.io/quote" 
 
 func main() {
 	c := colly.NewCollector()
